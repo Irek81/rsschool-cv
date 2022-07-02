@@ -1,3 +1,3 @@
-#initial text
-new text
+#initial text 
+new text 
 запись по новой ветке
