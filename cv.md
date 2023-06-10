@@ -1,6 +1,6 @@
 # Irek Isanbirdin
 
-![[./img/photo1.jpg]] - this was supposed to be my photo
+!(my photo)[img/photo.jpg] - this was supposed to be my photo
 
 ## Contacts:
 * phone and whatsapp: +79174777747
