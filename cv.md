@@ -16,6 +16,8 @@ My goal is to find a job and get a job as a front-end developer and develop more
 * HTML
 * CSS
 * GIT, Github
+* Figms
+* Perfect Pixel
 
 ## Code example:
 this code calculates the area of a triangle
